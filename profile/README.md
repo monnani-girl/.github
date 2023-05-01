@@ -9,6 +9,8 @@
 <div align='center'>
 <img src="https://user-images.githubusercontent.com/66112716/235389429-c2813d47-6930-4422-8e62-8ebb2c74fd30.png" width="80%" />
 </div>
+👉🏻 **[Front-End Repository 바로 가기](https://github.com/monnani-girl/nomonnani-FE)**  
+👉🏻 **[Back-End Repository 바로 가기](https://github.com/monnani-girl/monnani-ai-api)**
 
 서비스의 자세한 설명은 ['똑닮안' 구름톤 전시관](https://9oormthon.goorm.io/cb37a9b5-6a16-4d88-afe9-f4ea9ac9b7bd)에서도 확인하실 수 있어요!
 
