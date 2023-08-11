@@ -13,7 +13,7 @@
 👉🏻 [**Front-End Repository 바로 가기**](https://github.com/monnani-girl/nomonnani-FE)    
 👉🏻 [**Back-End Repository 바로 가기**](https://github.com/monnani-girl/monnani-ai-api)   
 
-서비스의 자세한 설명은 ['똑닮안' 구름톤 전시관](https://9oormthon.goorm.io/cb37a9b5-6a16-4d88-afe9-f4ea9ac9b7bd)에서도 확인하실 수 있어요!
+서비스의 자세한 설명은 ['똑닮안' 구름톤 전시관](https://9oormthon.goorm.io/30a437a5-e256-4e9f-8512-1dcfacc0f8af)에서도 확인하실 수 있어요!
 
 나와 닮은 농산물 닮은꼴 찾기 서비스 **똑닮안**은    
 [**Kakao X Goorm 구름톤 5기**](https://9oormthon.goorm.io/)(2023.03.28 - 2023.03.31) 에서 최우수상을 수상하였습니다! 🎉   
